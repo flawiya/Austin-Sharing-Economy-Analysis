@@ -24,3 +24,6 @@ This project integrates **Volunteered Geographic Information (VGI)** from Inside
 Note: Raw data is not included in this repository due to size and licensing. 
 1. **Inside Airbnb:** Austin Listings (Jan 2025) - [Download here](http://insideairbnb.com/get-the-data/)
 2. **US Census Bureau:** ACS 5-Year Estimates (2018-2022) via API.
+
+This project was developed as part of my postgraduate studies in Geographic Data Science at University of Liverpool. 
+It represents an application of advanced spatial statistics and unsupervised machine learning to real-world urban challenges.
