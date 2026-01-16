@@ -1,4 +1,4 @@
-# The Spatial Dynamics of the Sharing Economy: Austin, Texas
+# 📍 Mapping the Frontier: Austin’s Sharing Economy & Urban Fissures 🚀
 
 This project integrates **Volunteered Geographic Information (VGI)** from Inside Airbnb with **US Census Bureau (ACS)** data to explore how short-term rentals (STRs) intersect with demographic patterns and gentrification.
 
