@@ -1,0 +1,10 @@
+pandas
+geopandas
+matplotlib
+contextily
+libpysal
+esda
+splot
+scikit-learn
+requests
+numpy
