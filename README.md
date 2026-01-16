@@ -11,6 +11,10 @@ This project integrates **Volunteered Geographic Information (VGI)** from Inside
 ![Bivariate Map](output/Figure_Bivariate.jpeg)
 *The intersection of Income (Y-axis) and Airbnb Density (X-axis). Teal areas represent the 'Frontier Zones' of gentrification.*
 
+## 🔍 Spatial Autocorrelation (LISA)
+![LISA Map](output/Figure%204.jpeg)
+*Local Indicators of Spatial Association (LISA) revealing significant clusters of wealth (High-High) and structural disadvantage (Low-Low).*
+
 ## 🛠️ Tech Stack
 *   **Language:** Python
 *   **Spatial Libraries:** GeoPandas, PySAL (LISA), Contextily (Basemaps)
